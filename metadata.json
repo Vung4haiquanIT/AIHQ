@@ -1,0 +1,7 @@
+{
+  "name": "Trợ Lý AI Hải Quân",
+  "description": "Hệ thống Trợ lý AI thông minh chuyên dụng cho lực lượng Hải quân, tra cứu văn bản pháp luật biển, biên tập video phong cách CapCut, chuyển đổi giọng nói tuyên truyền và quản lý tri thức.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
